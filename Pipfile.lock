@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "d623354d8a1f9d5b5668b3b83fa8cdab246840081584c14608eb35592424a83f"
+            "sha256": "eef18aec6c960b1e7aab8f723d37b9c491313edfa389aea85de5a33220d84324"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -493,6 +493,13 @@
             ],
             "version": "==1.12.0"
         },
+        "sqlalchemy": {
+            "hashes": [
+                "sha256:0459bf0ea6478f3e904de074d65769a11d74cdc34438ab3159250c96d089aef0"
+            ],
+            "index": "pypi",
+            "version": "==1.3.7"
+        },
         "terminado": {
             "hashes": [
                 "sha256:d9d012de63acb8223ac969c17c3043337c2fcfd28f3aea1ee429b345d01ef460",
@@ -539,6 +546,14 @@
                 "sha256:b36a1c245f2d304965eb4e0a82848379241dc04b865afcc4aab16748587e1923"
             ],
             "version": "==0.5.1"
+        },
+        "xlrd": {
+            "hashes": [
+                "sha256:546eb36cee8db40c3eaa46c351e67ffee6eeb5fa2650b71bc4c758a29a1b29b2",
+                "sha256:e551fb498759fa3a5384a94ccd4c3c02eb7c00ea424426e212ac0c57be9dfbde"
+            ],
+            "index": "pypi",
+            "version": "==1.2.0"
         }
     },
     "develop": {}
