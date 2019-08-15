@@ -6,6 +6,12 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
+psycopg2-binary = "*"
+pandas = "*"
+numpy = "*"
+matplotlib = "*"
+jupyterlab = "*"
+seaborn = "*"
 
 [requires]
 python_version = "3.7"
